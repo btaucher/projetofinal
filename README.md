@@ -1,9 +1,8 @@
-API Enchentes
-Sobre
+#API Enchentes
 
-API criada para ajudar no gerenciamento de informações em situações de enchente.
+#Sobre
 
-Com ela, é possível cadastrar pessoas desaparecidas, registrar avistamentos, salvar contatos e acompanhar o histórico de cada caso de forma mais organizada.
+API criada para ajudar no gerenciamento de informações em situações de enchente. Com ela, é possível cadastrar pessoas desaparecidas, registrar avistamentos, salvar contatos e acompanhar o histórico de cada caso de forma mais organizada.
 
 Funcionalidades
 👤 Cadastro de pessoas desaparecidas
